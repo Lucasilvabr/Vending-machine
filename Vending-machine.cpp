@@ -1,13 +1,3 @@
-/*
- NOME     : LUCAS DA SILVA
- SEMESTRE : 1° NOTURNO
- RA       : 2840482123026
-
- NOME     : LEONARDO MARTINS DE SOUSA
- SEMESTRE : 1° NOTURNO
- RA       : 2840482123009
-*/
-
 #include <iostream>
 #include <iomanip>
 #include <locale.h>
